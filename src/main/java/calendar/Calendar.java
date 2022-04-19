@@ -1,8 +1,10 @@
 package calendar;
 
+import java.util.List;
+
 public class Calendar {
 
     public int add(int a, int b) {
-        return a + b + 2;
+        return a + b;
     }
 }
